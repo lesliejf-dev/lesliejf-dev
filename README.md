@@ -2,7 +2,7 @@
 <h1 align="center">Hello 🌐, I'm Leslie Jara 😃✨</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lesliejf-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lesliejf-dev" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lesliejf-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lesliejf-dev" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
